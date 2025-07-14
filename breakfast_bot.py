@@ -1,13 +1,9 @@
 import time
 
 print("Hello! I am Bob, the Breakfast Bot.")
-time.sleep(2)
 print("Today we have two breakfasts available.")
-time.sleep(2)
 print("The first is waffles with strawberries and whipped cream.")
-time.sleep(2)
 print("The second is sweet potato pancakes with butter and syrup.")
-time.sleep(2)
 
 while True:
     while True:
